@@ -21,7 +21,7 @@ Formula used:
 Installation & Usage
 
 - Clone the repository:
-    git clone https://github.com/your-username/simple-interest-calculator.git
+    git clone https://github.com/your-username/github-final-project.git
 
 - Navigate to the project directory:
     cd simple-interest-calculator
